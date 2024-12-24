@@ -92,7 +92,7 @@
 			<scope>runtime</scope>
 		</dependency>
 
-
+		<!--changes for main - 1-->
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
