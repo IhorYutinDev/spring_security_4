@@ -84,8 +84,7 @@
 			<version>0.11.5</version>
 			<scope>runtime</scope>
 		</dependency>
-<!--hwsdgf   sdg-->
-<!--hwsdgf f1 f1 sdg-->
+<!--changes for ticket-10001-->
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt-jackson</artifactId>
