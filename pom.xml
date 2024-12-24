@@ -85,6 +85,7 @@
 			<scope>runtime</scope>
 		</dependency>
 <!--hwsdgf   sdg-->
+<!--hwsdgf f1 f1 sdg-->
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt-jackson</artifactId>
